@@ -2,7 +2,7 @@
 
 ### Screenshot
 
-![Alt Text](https://i.postimg.cc/mDV6TDjM/ezgif-com-gif-maker-1.gif)
+<img src="https://i.postimg.cc/mDV6TDjM/ezgif-com-gif-maker-1.gif" data-canonical-src="https://i.postimg.cc/mDV6TDjM/ezgif-com-gif-maker-1.gif" width="250" height="500" />
 
 ### Features
 
