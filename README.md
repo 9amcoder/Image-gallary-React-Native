@@ -25,7 +25,6 @@ For Android:
 For iOS:
 
 - cd iOS 
-
 - pod install
-
+- cd ..
 - yarn iOS
